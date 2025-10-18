@@ -70,8 +70,8 @@ It visualizes key metrics like revenue, orders, top-selling pizzas, and sales tr
 ## 👨‍💻 Author
 **[Your Name]**  
 📧 [bhargaviyogesh15@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 
-[GitHub](https://github.com/bhargaviii-15)
+💼 https://www.linkedin.com/in/bhargavi-y-9a06a8322/ 
+🔗 [GitHub](https://github.com/bhargaviii-15)
 
 ---
 
